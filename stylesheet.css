@@ -67,7 +67,7 @@ header {
 }
 
 .logo {
-  width: 50px;
+  width: 55px;
   margin-top: 5px;
 }
 
@@ -94,20 +94,27 @@ header {
 
 .lesson-wrapper2 {
   height: 400px;
-  padding-bottom: 0px;
+  padding-bottom: 70px;
   background-color: #000000;
   text-align: center;
 }
 
 .lesson-wrapper3 {
-  height: 500px;
+  height: 1150px;
   padding-bottom: 80px;
   background-color: #d3d3d3;
   text-align: center;
 }
 
 .lesson-wrapper {
-  height: 500px;
+  height: 450px;
+  padding-bottom: 80px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.lesson-wrapper4 {
+  height: 400px;
   padding-bottom: 80px;
   background-color: #ffffff;
   text-align: center;
@@ -131,12 +138,12 @@ header {
 
 .lesson {
   float: left;
-  width: 50%;
+  width: 33%;
 }
 
 .lesson2 {
   float: left;
-  width: 100%;
+  width: 50%;
 }
 
 .lesson-icon {
@@ -156,6 +163,22 @@ header {
   margin-top: 20px;
   font-size: 12px;
   color: #b3aeb5;
+}
+
+.txt-contents2 {
+  width: 80%;
+  display: inline-block;
+  margin-top: 0px;
+  font-size: 18px;
+  color: #ff4500;
+}
+
+.txt-contents3 {
+  width: 80%;
+  display: inline-block;
+  margin-top: 0px;
+  font-size: 12px;
+  color: #000000;
 }
 
 .heading h3 {
@@ -192,4 +215,8 @@ footer p {
 
 footer {
   padding-top: 30px;
+}
+
+.selected5 {
+  color: #ff0000;
 }
