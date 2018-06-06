@@ -181,6 +181,15 @@ header {
   color: #000000;
 }
 
+.txt-contents4{
+  width: 80%;
+  height: 10px;
+  display: inline-block;
+  margin-top: 0px;
+  font-size: 12px;
+  color: #b3aeb5;
+}
+
 .heading h3 {
   font-weight: normal;
 }
